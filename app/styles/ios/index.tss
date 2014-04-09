@@ -1,0 +1,12 @@
+".container": {
+	backgroundColor:"gray"
+},
+".TableView1[platform=ios]":
+{
+	top : 10,
+	left : 0,
+	right : 0,
+	backgroundColor : 'white',
+	separatorColor : 'black',
+	separatorStyle : 1
+}

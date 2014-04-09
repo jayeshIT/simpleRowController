@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="detailsnews" id="detailsnews">
+		<View class="topView" id="topView">
+			<Button class="backbutton" id="backbutton"></Button>
+		</View>
+	</Window>
+</Alloy>

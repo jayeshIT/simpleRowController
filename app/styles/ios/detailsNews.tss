@@ -1,0 +1,30 @@
+".detailsnews":
+{
+	top : 0,
+	backgroundColor : 'white'
+},
+".topView":
+{
+	top : 0,
+	left : 0,
+	width : '100%',
+	backgroundColor : 'gray',
+	height : 45
+},
+".backbutton":
+{
+	top : 10,
+	left : 10,
+	height : 30,
+	width : 55,
+	style : 0,
+	font :
+	{
+		fontSize : 12,
+		
+	},
+	color : 'white',
+	backgroundColor : 'black',
+	title : 'Back',
+	borderRadius : 4,
+}

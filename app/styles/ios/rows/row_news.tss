@@ -1,0 +1,40 @@
+
+".TableRow" : {
+  width : 320,
+  height : 80,
+  backgroundColor : 'white',
+  selectedBackgroundColor:'transparent',
+  RowJOSN : ''
+},
+".imgAvtar":
+{
+	top : 25,
+	left : 10,
+	height : 30,
+	width : 30
+},
+".lblTitle":
+{
+	top : 10,
+	left : 45,
+	right : 0,
+	height  : 20,
+	font :
+	{
+		fontSize : 14,
+		fontWeight : 'bold'
+	},
+	color : 'black'
+},
+".lblText":
+{
+	top : 35,
+	left : 50,
+	right :0,
+	height : 40,
+	font :
+	{
+		fontSize : 10
+	},
+	color : 'black'
+}
